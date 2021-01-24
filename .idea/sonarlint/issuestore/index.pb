@@ -1,0 +1,21 @@
+
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+e
+5app/src/main/java/com/anand/iprotech/myNuberGrid.java,e\2\e27215db68088ffb4de66e498be0aeb9781e7a89
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+p
+@app/src/main/java/com/anand/iprotech/actvities/HomeActivity.java,8\7\87e313ad3fae5f82d5d9bbb3f798b6efa5ae7bee
+p
+@app/src/main/java/com/anand/iprotech/actvities/MainActivity.java,1\d\1d0e79f6f6fd2978b17d7de2148f9ec0ad1b0646
+s
+Capp/src/main/java/com/anand/iprotech/actvities/TambolaActivity.java,4\7\4736ae965b979beeb1487eb68b4979e78f71e350
+i
+9app/src/main/java/com/anand/iprotech/myNuberDumyGrid.java,6\f\6fa73f01f5d26b7195f493449172b75db4253154
+r
+Bapp/src/main/java/com/anand/iprotech/actvities/SplashActivity.java,f\0\f087276827a286f1de5d82cd5329c2692e4e95cb
+r
+Bapp/src/main/java/com/anand/iprotech/actvities/PachisActivity.java,7\a\7a36b5de16229e22cceb7289f80959a76f5ca314
+w
+Gapp/src/main/java/com/anand/iprotech/actvities/SimpleGestureFilter.java,a\c\acc17112a249e795519124e8de0a6b9c189610bc

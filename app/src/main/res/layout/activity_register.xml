@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Actvities.TambolaActivity"
+    android:keepScreenOn="true"
+    android:background="@mipmap/cardboard">
+
+    <ImageView
+        android:id="@+id/home_img"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:src="@drawable/ic_home"
+        android:layout_margin="10dp"
+        android:background="@drawable/text_background"
+        android:elevation="10dp"/>
+    <ImageView
+        android:id="@+id/reset_img"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/ic_reset"
+        android:layout_margin="10dp"
+        android:background="@drawable/text_background"
+        android:elevation="10dp"
+        android:visibility="gone"/>
+    <TextView
+        android:id="@+id/primary_no_txt"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:gravity="center"
+        android:text="00"
+        android:textAllCaps="true"
+        android:textColor="#FFFF"
+        android:textSize="60sp"
+        android:background="@drawable/text_background"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:layout_marginBottom="15dp"
+        android:layout_marginTop="15dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"/>
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_above="@id/reg_btn"
+        android:orientation="vertical"
+        android:layout_marginBottom="30dp">
+
+
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/rec_num_grid"
+            android:padding="5dp"
+            android:visibility="gone"/>
+        <androidx.recyclerview.widget.RecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/rec_num_dummy_grid"
+            android:padding="5dp"
+            android:visibility="visible"/>
+
+
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/completed_message_txt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Successfully Completed"
+        android:textAllCaps="true"
+        android:textColor="#121212"
+        android:textSize="32sp"
+        android:background="@drawable/button_focused"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:visibility="gone"
+        android:layout_centerInParent="true"/>
+
+    <Button
+        android:id="@+id/reg_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/button"
+        android:padding="10dp"
+        android:text="Start"
+        android:textStyle="bold"
+        android:textSize="24sp"
+        android:textAllCaps="false"
+        android:textColor="#FFFF"
+        android:layout_alignParentBottom="true"
+        android:enabled="false"/>
+
+</RelativeLayout>

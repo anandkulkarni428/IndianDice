@@ -1,0 +1,75 @@
+
+P
+java:S1444*"3Make this "public static animationDtoU" field final(•İÜ¢8æ’‰Éâ.
+Q
+java:S1444*"4Make this "public static shakeAnimation" field final(•İÜ¢8æ’‰Éâ.
+S
+java:S2696K"6Make the enclosing method "static" or remove this set.(¤ö¨8æ’‰Éâ.
+P
+java:S1444*"3Make this "public static animationLtoR" field final(•İÜ¢8æ’‰Éâ.
+H
+java:S1659*"+Declare "animationDtoU" on a separate line.(•İÜ¢8Šé‡Èâ.
+Q
+java:S1444*"4Make this "public static blinkAnimation" field final(•İÜ¢8æ’‰Éâ.
+u
+java:S1104("SMake homeImg a static final constant or non-public and provide accessors if needed.(¯®Ûúÿÿÿÿ8—«œ¢â.
+R
+java:S2696I"6Make the enclosing method "static" or remove this set.(Ï“èU8æ’‰Éâ.
+L
+java:S1481U"/Remove this unused "controller" local variable.(ùâêñ8ÊÈœÈâ.
+w
+java:S1104*"ZMake blinkAnimation a static final constant or non-public and provide accessors if needed.(•İÜ¢8æ’‰Éâ.
+v
+java:S1104*"YMake animationDtoU a static final constant or non-public and provide accessors if needed.(•İÜ¢8æ’‰Éâ.
+x
+java:S1104."VMake userRegbtn a static final constant or non-public and provide accessors if needed.(ÃÂ™²üÿÿÿÿ8¡Š™â.
+F
+java:S16594")Declare "mediaPlayer" on a separate line.(æˆÅò8ìŒÓâ.
+Q
+java:S1659&"/Declare "recNumberDumygrid" on a separate line.(Ÿş™ºûÿÿÿÿ8ÏˆÄ¡â.
+S
+java:S2696D"6Make the enclosing method "static" or remove this set.(‘ƒÈ8—«œ¢â.
+J
+java:S1659$"-Declare "completedMsgtxt" on a separate line.(ÔÅ§8¦øàÀâ.
+R
+java:S1444$"5Make this "public static completedMsgtxt" field final(ÔÅ§8”ÙÈâ.
+O
+java:S1444$"2Make this "public static primaryNotxt" field final(ÔÅ§8”ÙÈâ.
+H
+java:S1659*"+Declare "animationLtoR" on a separate line.(•İÜ¢8ÄÃä¡â.
+R
+java:S1444."0Make this "public static userRegbtn" field final(ÃÂ™²üÿÿÿÿ8ñú™â.
+x
+java:S1104$"[Make completedMsgtxt a static final constant or non-public and provide accessors if needed.(ÔÅ§8”ÙÈâ.
+u
+java:S1104$"XMake primaryNotxt a static final constant or non-public and provide accessors if needed.(ÔÅ§8”ÙÈâ.
+S
+java:S2696C"6Make the enclosing method "static" or remove this set.(ªÿ8—«œ¢â.
+X
+java:S2696B"6Make the enclosing method "static" or remove this set.(Ä“µØúÿÿÿÿ8ÏˆÄ¡â.
+[
+java:S1854U">Remove this useless assignment to local variable "controller".(ùâêñ8ÊÈœÈâ.
+A
+java:S2119Ï"Save and re-use this "Random".(šŸ«íøÿÿÿÿ8ØäóÈâ.
+X
+java:S2696M"6Make the enclosing method "static" or remove this set.(¯œÒ‚ÿÿÿÿÿ8æ’‰Éâ.
+w
+java:S1104*"ZMake shakeAnimation a static final constant or non-public and provide accessors if needed.(•İÜ¢8æ’‰Éâ.
+v
+java:S1104*"YMake animationLtoR a static final constant or non-public and provide accessors if needed.(•İÜ¢8æ’‰Éâ.
+I
+java:S1659*",Declare "shakeAnimation" on a separate line.(•İÜ¢8æëˆÈâ.
+P
+java:S1444(".Make this "public static resetImg" field final(¯®Ûúÿÿÿÿ8—«œ¢â.
+S
+java:S2696?"6Make the enclosing method "static" or remove this set.(•îª‰8”ÙÈâ.
+S
+java:S2696O"6Make the enclosing method "static" or remove this set.(½ĞÔå8æ’‰Éâ.
+H
+java:S1659("&Declare "resetImg" on a separate line.(¯®Ûúÿÿÿÿ8ã‚”¢â.
+O
+java:S1444("-Make this "public static homeImg" field final(¯®Ûúÿÿÿÿ8—«œ¢â.
+X
+java:S2696>"6Make the enclosing method "static" or remove this set.(ï·á½ıÿÿÿÿ8”ÙÈâ.
+v
+java:S1104("TMake resetImg a static final constant or non-public and provide accessors if needed.(¯®Ûúÿÿÿÿ8—«œ¢â.

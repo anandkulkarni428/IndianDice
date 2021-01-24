@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.anand.iprotech">
+
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo_indian_dice"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo_indian_dice"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.NoActionBar">
+        <activity android:name=".Actvities.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+        <activity android:name=".Actvities.PachisActivity" />
+        <activity android:name=".Actvities.HomeActivity"/>
+        <activity android:name=".Actvities.TambolaActivity" />
+        <activity android:name=".Actvities.MainActivity" />
+    </application>
+
+</manifest>

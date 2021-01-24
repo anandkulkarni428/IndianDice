@@ -1,0 +1,43 @@
+
+U
+java:S1854"7Remove this useless assignment to local variable "str".(ˆÍüö8›ê›€æ.
+R
+java:S1659)"0Declare "startTextAnimation" on a separate line.(¤Öåˆüÿÿÿÿ8ßÀ’÷á.
+V
+java:S1128"9Remove this unused import 'android.view.GestureDetector'.(ò³µ8şíïÿå.
+F
+java:S1659+")Declare "mediaPlayer" on a separate line.(æˆÅò8Î˜ıÒâ.
+B
+java:S1659%"%Declare "homeImg" on a separate line.( ˜Â¸8ÍÈ– â.
+Y	java:S125"<This block of commented-out lines of code should be removed.(©ÛÉ¥8›ê›€æ.
+S
+java:S1854~"7Remove this useless assignment to local variable "str".(œ8›ê›€æ.
+I
+java:S1659)"'Declare "animation" on a separate line.(¤Öåˆüÿÿÿÿ8©¬«éâ.
+J
+java:S1481y"(Remove this unused "str" local variable.(ûÍÇÉøÿÿÿÿ8›ê›€æ.
+E
+java:S1659%"(Declare "randomImg3" on a separate line.( ˜Â¸8æ–€ôá.
+b
+java:S1128"ERemove this unused import 'androidx.appcompat.app.AppCompatActivity'.(€¶£î8”°îÿå.
+O
+java:S1128"-Remove this unused import 'android.os.Build'.(ãÇ¤Úıÿÿÿÿ8•È¾€æ.
+E
+java:S1659%"(Declare "randomImg2" on a separate line.( ˜Â¸8æ–€ôá.
+E
+java:S1659%"(Declare "randomImg4" on a separate line.( ˜Â¸8æ–€ôá.
+s
+java:S1128"QRemove this unused import 'android.view.GestureDetector.SimpleOnGestureListener'.(ÛÜÎ´úÿÿÿÿ8¡Òşÿå.
+U
+java:S1854„"7Remove this useless assignment to local variable "str".(æ Ãœ8›ê›€æ.
+T
+java:S1128"2Remove this unused import 'android.widget.Button'.(²òıÿÿÿÿ8¬¬ª€æ.
+S
+java:S1128"1Remove this unused import 'android.widget.Toast'.(©›ïÍúÿÿÿÿ8šÎœˆæ.
+`
+java:S1854P">Remove this useless assignment to local variable "controller".(©ÃÃ°ûÿÿÿÿ8®ä¿éâ.
+N
+java:S1659)",Declare "blinkanimatiom" on a separate line.(¤Öåˆüÿÿÿÿ8›˜µ€æ.
+C	java:S131{""Add a default case to this switch.(Æóõµıÿÿÿÿ8›ê›€æ.
+Q
+java:S1481P"/Remove this unused "controller" local variable.(©ÃÃ°ûÿÿÿÿ8®ä¿éâ.
